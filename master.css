@@ -1,0 +1,71 @@
+body{
+  background-image: url("background.jpg");
+  margin: auto;
+
+}
+.logo{
+  text-align: center;
+  position: relative;
+  left: 900px;
+  display: block;
+}
+.logo-text{
+  position: relative;
+  left: 800px;
+  color: limegreen;
+  font-size: 50pt;
+}
+.row{
+  text-align: center;
+}
+.rettangolo-lime{
+  margin: auto;
+  text-align: center;
+  width: 1000px;
+  height: 30px;
+  background-color: limegreen;
+  border-radius: 5px 5px 5px 5px;
+}
+.prenota{
+  text-align: center;
+  display: inline-block;
+}
+.termina{
+  text-align: center;
+  display: inline-block;
+}
+.accendi{
+  text-align: center;
+  display: inline-block;
+}
+.rettangolo-1{
+  width: 400px;
+  height: 25px;
+  background-color: orange;
+  border-radius: 5px 5px 5px 5px;
+}
+.rettangolo-2{
+  width: 800px;
+  height: 25px;
+  background-color: lightgreen;
+  border-radius: 5px 5px 5px 5px;
+}
+.rettangolo-3{
+  width: 200px;
+  height: 25px;
+  background-color: red;
+  border-radius: 5px 5px 5px 5px;
+}
+.container{
+  width: 1000px;
+  margin: auto;
+}
+main{
+  width: 1000px;
+  margin: auto;
+  color: white;
+}
+.square-box{
+  filter: opacity(80%);
+  background-color: grey;
+}
